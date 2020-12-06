@@ -1,0 +1,7 @@
+.DS_Store
+datasets/
+.idea
+dsvae/__pycache__/*
+vmfmix/__pycache__/*
+
+
