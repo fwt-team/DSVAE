@@ -31,6 +31,6 @@ To train the model(s) in the paper, run this command:
 python train.py -s mnist -n 150 -v 1 -r dsvae
 ```
 
-Note: the reparameterization trick code is taken from (https://github.com/nicola-decao/s-vae-pytorch)
+Note: part of the reparameterization trick code is taken from (https://github.com/nicola-decao/s-vae-pytorch)
 
 
