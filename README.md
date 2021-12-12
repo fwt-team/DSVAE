@@ -37,11 +37,11 @@ Note: part of the reparameterization trick code is taken from (https://github.co
 ### Reference
 If you use our code in your work, please cite our paper. 
 
-    @article{YANG2021,
-    title = "Deep Clustering Analysis via Dual Variational Autoencoder with Spherical Latent Embeddings",
-    author = "Lin Yang and Wentao Fan and Nizar Bouguila",
-    journal = "IEEE Transactions on Neural Networks and Learning Systems",
-    volume = "0",
-    pages = "1",
-    year = "2021"
-    }
+    @ARTICLE{YANG2021,
+    author={L. {Yang} and W. {Fan} and N. {Bouguila}},
+    journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+    title={Deep Clustering Analysis via Dual Variational Autoencoder with Spherical Latent Embeddings}, 
+    year={2021},
+    volume={},
+    number={},
+    pages={1-10},}
