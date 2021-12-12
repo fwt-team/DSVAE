@@ -1,4 +1,4 @@
-# Deep Clustering Analysis via Dual Variational Autoencoder with Spherical Latent Embeddings
+# code for "Deep Clustering Analysis via Dual Variational Autoencoder with Spherical Latent Embeddings"
 
 ## Requirements
 
@@ -33,4 +33,15 @@ python train.py -s mnist -n 150 -v 1 -r dsvae
 
 Note: part of the reparameterization trick code is taken from (https://github.com/nicola-decao/s-vae-pytorch)
 
+---
+### Reference
+If you use our code in your work, please cite our paper. 
 
+    @article{YANG2021,
+    title = "Deep Clustering Analysis via Dual Variational Autoencoder with Spherical Latent Embeddings",
+    author = "Lin Yang and Wentao Fan and Nizar Bouguila",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    volume = "0",
+    pages = "1",
+    year = "2021"
+    }
